@@ -19,18 +19,10 @@ Passionate about leveraging AI and emerging technologies to solve complex busine
 
 ## Rapidfire
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <ul>
-        <li>Currently working as a Senior Engineering Manager at [Wonderschool](https://wonderschool.com)</li>
-        <li>I have lead teams and projects of various sizes and currently team a team of 12 engineers across 4 projects</li>
-        <li>I have lived and worked as an engineer across 3 different continents (New Zealand, Singapore, United States)</li>
-        <li>I live in St George, UT with my wife and toy pomeranian</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Currently working as a Senior Engineering Manager at [Wonderschool](https://wonderschool.com)
+- I have lead teams and projects of various sizes and currently team a team of 12 engineers across 4 projects
+- I have lived and worked as an engineer across 3 different continents (New Zealand, Singapore, United States)
+- I live in St George, UT with my wife and toy pomeranian
 
 ## Languages and Tools
 
