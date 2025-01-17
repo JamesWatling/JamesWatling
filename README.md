@@ -62,4 +62,6 @@ Passionate about leveraging AI and emerging technologies to solve complex busine
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>
 </div>
 
+<br />
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=JamesWatling&&style=flat-square)
