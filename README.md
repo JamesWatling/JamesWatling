@@ -19,7 +19,7 @@ Passionate about leveraging AI and emerging technologies to solve complex busine
 
 ## Rapidfire
 
-- Currently working as a Senior Engineering Manager at [Wonderschool](https://wonderschool.com)
+- Currently working as a Senior Engineering Manager at [SpringHealth](https://springhealth.com)
 - I have lead teams and projects of various sizes and currently team a team of 12 engineers across 4 projects
 - I have lived and worked as an engineer across 3 different continents (New Zealand, Singapore, United States)
 - I live in St George, UT with my wife and toy pomeranian
